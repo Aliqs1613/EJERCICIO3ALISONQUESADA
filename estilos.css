@@ -1,0 +1,20 @@
+.marca{
+    color: yellow;
+    font-size: 25px;
+
+    
+}
+
+.As{
+    color:#af69cd;
+    font-size: 25px;
+}
+
+
+.marca:hover{
+    color: green;
+}
+
+.As:hover{
+    color: red;
+}
